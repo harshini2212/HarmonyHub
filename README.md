@@ -28,7 +28,4 @@ HarmonyHub is built to support learners and educators through:
 - MIDI support for both input and output
 - Sheet music rendering (planned feature)
 
-## Getting Started
-
-Clone the repository:
 
